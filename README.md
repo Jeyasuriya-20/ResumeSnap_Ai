@@ -23,7 +23,7 @@ How To Use :
 - Upload your Resume (PDF or DOCX)
 - Click Analyze
 - See your results ⚡
-- 
+
 API Key :
 Get a free key from console.groq.com
 Add it as environment variable: GROQ_API_KEY
