@@ -6,7 +6,7 @@ What It Does
 - Checks ATS readiness
 - Shows your strengths and weak areas
 - Suggests free courses to improve
-- Gives an AI roast 🔥
+- Gives an AI roast 
 
 Built With
 - Python
@@ -21,8 +21,8 @@ How To Use :
 - Select Fresher or Experienced
 - Paste the Job Description
 - Upload your Resume (PDF or DOCX)
-- Click Analyze
-- See your results ⚡
+- Click Analyze button 
+- See your results 
 
 API Key :
 Get a free key from console.groq.com
